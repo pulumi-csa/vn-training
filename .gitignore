@@ -1,0 +1,11 @@
+# .NET build output
+bin/
+obj/
+
+# Pulumi stack config files may contain secrets
+Pulumi.*.yaml
+!Pulumi.yaml
+
+# Pulumi state (if using local backend)
+.pulumi/
+iam-workshop-policy.json

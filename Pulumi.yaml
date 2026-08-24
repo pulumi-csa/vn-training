@@ -1,0 +1,3 @@
+name: vn-training
+description: VN Pulumi training — AWS C# exercise (components, config, ESC, resource options).
+runtime: dotnet
